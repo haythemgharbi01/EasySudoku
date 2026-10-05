@@ -1,4 +1,4 @@
-# sudoku-pozzule-solver
+# EasySudoku
 A Sudoku solver is a program designed to automatically complete a partially filled 9x9 Sudoku puzzle while adhering to the game’s core rules:
 
 Each number from 1 to 9 must appear exactly once in every row, column, and 3x3 subgrid.
