@@ -21,6 +21,7 @@ If no number works, the algorithm backtracks (undoes the last step) and tries an
 This continues until the grid is solved or the algorithm concludes no solution exists.
 
 🔹 Features :
+Reduced search time by most-constrained-cell-first heuristic
 
 Solves any valid Sudoku puzzle (easy → expert).
 
